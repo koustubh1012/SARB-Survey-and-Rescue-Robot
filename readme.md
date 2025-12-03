@@ -86,10 +86,6 @@ def homo_matrix(a, d, alpha, theta):
 
 ## 🌐 Workspace Study
 
-```md
-![Workspace Diagram](images/workspace.png)
-```
-
 Maximum Z reach: **0.3172 m**  
 Base provides full planar (X–Y) coverage depending on orientation.
 
@@ -99,11 +95,6 @@ Base provides full planar (X–Y) coverage depending on orientation.
 - **Mobile Base:** Closed-loop P controller  
 - **Manipulator Arm:** ros2_control position controller  
 - **Simulation:** Gazebo + RViz  
-
-### RViz Visualization
-```md
-![Rviz View](images/rviz.png)
-```
 
 ---
 
