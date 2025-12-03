@@ -15,11 +15,8 @@ SARB can navigate cluttered environments, pick up emergency beacons, and perform
 ---
 
 ## 📸 CAD Model
-(Add images after placing them in an `images/` folder)
 
-```md
 ![CAD Model](images/assembly.png)
-```
 
 ---
 
