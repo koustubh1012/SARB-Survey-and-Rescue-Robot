@@ -1,4 +1,4 @@
-# SARB – Search and Rescue Bot  
+# SARB – Survey and Rescue Bot  
 *A Mobile Manipulator for Survey & Rescue Operations*  
 
 ## 📌 Overview
