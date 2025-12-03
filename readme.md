@@ -44,10 +44,7 @@ SARB can navigate cluttered environments, pick up emergency beacons, and perform
 | 2 → 3 | 0.08 | 0 | 0 | θ₂ |
 | 3 → 4 | 0.092 | 0 | 0 | θ₃ |
 
-(Add DH frame image)
-```md
-![DH Frame](images/dh_frame.png)
-```
+![DH Frame](images/dh_frames.png)
 
 ---
 
